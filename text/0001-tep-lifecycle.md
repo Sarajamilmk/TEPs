@@ -1,4 +1,5 @@
-- **TEP**: [1](https://github.com/ton-blockchain/TEPs/pull/1)
+- **TEP**[Screenshot_۲۰۲۴۱۰۲۵-۰۷۱۴۱۹_Telegram](https://github.com/user-attachments/assets/b0468cf5-f2ac-4083-9088-a80b5a1951b5)
+(https://github.com/ton-blockchain/TEPs/pull/1)
 - **title**: TEP Lifecycle
 - **status**: Active
 - **type**: Meta
